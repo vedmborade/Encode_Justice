@@ -2,7 +2,7 @@
 
 You can play around with the application here:
 
-https://stackblitz.com/edit/star-coders-movie-picker
+https://star-coders-movie-picker.stackblitz.io
 
 
 We wanted to fully research how recommending algorithms work, so we decided to program a very similar one.
